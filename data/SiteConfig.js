@@ -6,8 +6,8 @@ module.exports = {
   siteTitleAlt: "GatsbyJS Casper Theme Starter", // Alternative site title for SEO.
   siteLogo:
     "https://haysclark.github.io/gatsby-starter-casper/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/gatsby-starter-casper", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  siteUrl: "https://pvpshoot.github.io/", // Domain of your website without pathPrefix.
+  pathPrefix: "/urbantrip", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "A Casper themed GatsbyJS stater based on the Advanced Starter.", // Website description used for RSS feeds/meta description tag.
   siteCover:
