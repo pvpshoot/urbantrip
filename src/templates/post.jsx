@@ -106,6 +106,15 @@ class PostTemplate extends React.Component {
 
   renderHTML = obj => <div dangerouslySetInnerHTML={{__html: obj.value}} />;
 
+  renderHeader = (cover) =>  null
+    // return <MainHeader className="post-head" cover={cover}>
+    //   <MainNav>
+    //     <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
+    //     <MenuButton navigation={config.siteNavigation} onClick={this.handleOnClick} />
+    //   </MainNav>
+    // </MainHeader>;
+  
+
   render() {
     const { location, data } = this.props;
     const { slug, next, prev } = this.props.pathContext;
@@ -133,15 +142,7 @@ class PostTemplate extends React.Component {
         <Navigation config={config} onClose={this.handleOnClose} />
 
         <SiteWrapper>
-          <MainHeader className="post-head" cover={cover}>
-            <MainNav>
-              <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
-              <MenuButton
-                navigation={config.siteNavigation}
-                onClick={this.handleOnClick}
-              />
-            </MainNav>
-          </MainHeader>
+          {this.renderHeader(cover)}
           <MainContent>
             <PostFormatting className={className}>
               <PostHeader>

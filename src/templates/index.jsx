@@ -1,21 +1,21 @@
-import React from "react";
+import BlogLogo from "../components/BlogLogo/BlogLogo";
+import Drawer from "../layouts/Drawer/Drawer";
+import Footer from "../components/Footer/Footer";
 import Helmet from "react-helmet";
 import { Link } from "react-scroll";
-import PostListing from "../components/PostListing/PostListing";
-import SEO from "../components/SEO/SEO";
-import config from "../../data/SiteConfig";
-import Drawer from "../layouts/Drawer/Drawer";
-import Navigation from "../components/Navigation/Navigation";
-import SiteWrapper from "../layouts/SiteWrapper/SiteWrapper";
-import Footer from "../components/Footer/Footer";
 import MainHeader from "../layouts/MainHeader/MainHeader";
 import MainNav from "../layouts/MainNav/MainNav";
-import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
-import PageTitle from "../components/PageTitle/PageTitle";
+import Navigation from "../components/Navigation/Navigation";
 import PageDescription from "../components/PageDescription/PageDescription";
+import PageTitle from "../components/PageTitle/PageTitle";
 import PaginatedContent from "../layouts/PaginatedContent/PaginatedContent";
+import PostListing from "../components/PostListing/PostListing";
+import React from "react";
+import SEO from "../components/SEO/SEO";
+import SiteWrapper from "../layouts/SiteWrapper/SiteWrapper";
 import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
+import config from "../../data/SiteConfig";
 
 class IndexTemplate extends React.Component {
   state = {
@@ -44,6 +44,42 @@ class IndexTemplate extends React.Component {
     this.setState({ menuOpen: false });
   };
 
+  renderHeader = () => null
+
+    // return (
+    //   <MainHeader cover={config.siteCover}>
+    //     <MainNav overlay={config.siteCover}>
+    //       <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
+    //       <MenuButton
+    //         navigation={config.siteNavigation}
+    //         onClick={this.handleOnClick}
+    //       />
+    //     </MainNav>
+    //     <div className="vertical">
+    //       <div className="main-header-content inner">
+    //         <PageTitle text={config.siteTitle} />
+    //         <PageDescription text={config.siteDescription} />
+    //         <SocialMediaIcons
+    //           urls={config.siteSocialUrls}
+    //           color="currentColor"
+    //         />
+    //       </div>
+    //     </div>
+    //     <Link
+    //       className="scroll-down icon-arrow-left"
+    //       to="content"
+    //       data-offset="-45"
+    //       spy
+    //       smooth
+    //       duration={500}
+    //     >
+    //       <span className="hidden">Scroll Down</span>
+    //     </Link>
+    //   </MainHeader>
+    // )
+    
+  
+
   render() {
     const {
       nodes,
@@ -68,36 +104,7 @@ class IndexTemplate extends React.Component {
           {/* All the main content gets inserted here */}
           <div className="home-template">
             {/* The big featured header */}
-            <MainHeader cover={config.siteCover}>
-              <MainNav overlay={config.siteCover}>
-                <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
-                <MenuButton
-                  navigation={config.siteNavigation}
-                  onClick={this.handleOnClick}
-                />
-              </MainNav>
-              <div className="vertical">
-                <div className="main-header-content inner">
-                  <PageTitle text={config.siteTitle} />
-                  <PageDescription text={config.siteDescription} />
-                  <SocialMediaIcons
-                    urls={config.siteSocialUrls}
-                    color="currentColor"
-                  />
-                </div>
-              </div>
-              <Link
-                className="scroll-down icon-arrow-left"
-                to="content"
-                data-offset="-45"
-                spy
-                smooth
-                duration={500}
-              >
-                <span className="hidden">Scroll Down</span>
-              </Link>
-            </MainHeader>
-
+            {this.renderHeader()}
             <PaginatedContent
               page={page}
               pages={pages}
