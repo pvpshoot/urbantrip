@@ -1,7 +1,7 @@
 {
   "id": "Boris T",
   "name": "Борис",
-  "image": "images/boris.jpg",
+  "image": "https://hb.bizmrg.com/urbantrip/media/avatars/boris.jpg",
   "location": "Ульяновск",
   "url": "http://gatsbyjs.org/",
   "bio": "Лучше звоните борису"

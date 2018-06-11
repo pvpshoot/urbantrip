@@ -1,8 +1,8 @@
 {
   "id": "Vladimir",
   "name": "Urban",
-  "image": "images/vladimir.jpg",
+  "image": "https://hb.bizmrg.com/urbantrip/media/avatars/vladimir.jpg",
   "url": "http://gatsbyjs.org/",
-  "location": "North Pole, Earth",
+  "location": "Ульяновск",
   "bio": "Просто вова"
 }
