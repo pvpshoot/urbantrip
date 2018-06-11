@@ -47,7 +47,10 @@ const formatReadNext = value => ({
 });
 
 const getURLParams = () => {
-  const paramsStr = location.search.slice(1);
+  let paramsStr = '' 
+  if (process.browser) { 
+    paramsStr = location.search.slice(1);
+  }
   const paramsArr = paramsStr.split('&');
   const paramsObj = {};
   paramsArr.forEach((param) => { paramsObj[param.split('=')[0]] = param.split('=')[1]; });
