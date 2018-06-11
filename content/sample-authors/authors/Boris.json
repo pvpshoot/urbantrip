@@ -3,5 +3,6 @@
   "name": "Борис",
   "image": "images/boris.jpg",
   "location": "Ульяновск",
+  "url": "http://gatsbyjs.org/",
   "bio": "Лучше звоните борису"
 }
