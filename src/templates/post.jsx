@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import ReactMarkdown from 'react-markdown';
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 import MainHeader from "../layouts/MainHeader/MainHeader";
@@ -69,10 +70,15 @@ class PostTemplate extends React.Component {
     this.setState({ menuOpen: false });
   };
 
+  clearMD = rawMD => rawMD.replace(/-{3}\n(.+\n)*-{3}\n/gmi, '');
+
+  renderHTML = obj => <div dangerouslySetInnerHTML={{__html: obj.value}} />
+
   render() {
     const { location, data } = this.props;
     const { slug, next, prev } = this.props.pathContext;
     const postNode = this.props.data.markdownRemark;
+    const rawMD = postNode.internal.content;
     const post = parsePost(postNode.frontmatter, slug);
     const { cover, title, date, author, tags } = post;
     const className = post.post_class ? post.post_class : "post";
@@ -83,7 +89,6 @@ class PostTemplate extends React.Component {
     );
     const getNextData = () => (next ? formatReadNext(data.next) : null);
     const getPrevData = () => (prev ? formatReadNext(data.prev) : null);
-
     return (
       <Drawer className="post-template" isOpen={this.state.menuOpen}>
         <Helmet>
@@ -114,10 +119,9 @@ class PostTemplate extends React.Component {
                 </section>
               </PostHeader>
 
-              <section
-                className="post-content"
-                dangerouslySetInnerHTML={{ __html: postNode.html }}
-              />
+              <section className="post-content">
+                <ReactMarkdown source={this.clearMD(rawMD)} renderers={{html: this.renderHTML}} />
+              </section>
 
               <PostFooter>
                 <AuthorImage author={authorData} />
@@ -150,6 +154,9 @@ export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!, $next: String, $prev: String) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
+      internal {
+        content
+      }
       timeToRead
       excerpt
       frontmatter {
