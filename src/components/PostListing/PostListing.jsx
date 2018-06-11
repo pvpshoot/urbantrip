@@ -36,7 +36,7 @@ class PostListing extends React.Component {
         {postList.map(post => {
           const { title, path, excerpt, author, tags, date } = post;
           const className = post.post_class ? post.post_class : "post";
-
+          const parsedExcerpt = excerpt.replace(/\\n/g, '');
           return (
             <PostFormatting className={className} key={title}>
               <PostHeader>
@@ -47,7 +47,7 @@ class PostListing extends React.Component {
               <section className="post-excerpt">
                 {/* TODO limit excerpt to 26 words */}
                 <p>
-                  {excerpt}{" "}
+                  {parsedExcerpt}{" "}
                   <Link className="read-more" to={path}>
                     &raquo;
                   </Link>
@@ -55,9 +55,11 @@ class PostListing extends React.Component {
               </section>
               <footer className="post-meta">
                 <AuthorThumbnail avatar={author.image} name={author.name} />
-                <AuthorLink url={`/author/${author.id}`} name={author.name} />
-                <PostTags prefix=" on " tags={tags} />
-                <PostDate date={date} />
+                <div className="post-meta-info">
+                  <AuthorLink url={`/author/${author.id}`} name={author.name} />
+                  <PostTags prefix=" on " tags={tags} />
+                  <PostDate date={date} />
+                </div>
               </footer>
             </PostFormatting>
           );

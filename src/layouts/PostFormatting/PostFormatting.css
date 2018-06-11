@@ -107,6 +107,20 @@ div.page-template .post-title {
     display: none;
 }
 
+.post-content {
+    position: relative;
+    padding-left: 76px;
+}
+
+.tg-timestamp {
+    position: absolute;
+    left: 0;
+    font-size: 20px;
+    opacity: 0.6;
+    line-height: 1.2;
+}
+
+
 /* ==========================================================================
        Media Queries - Smaller than 900px
    ========================================================================== */
