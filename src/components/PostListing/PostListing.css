@@ -1,12 +1,13 @@
 /** empty css file for component consistency **/
 .post-meta {
-  overflow: hidden;
-  display: flex;
-  align-items: center;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
 }
-.post-meta img{
-  display: block;
-  max-width: 128px;
-  height: auto;
+
+.post-meta img {
+    display: block;
+    max-width: 128px;
+    height: auto;
 }
 

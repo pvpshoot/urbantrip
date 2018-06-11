@@ -1,6 +1,9 @@
+import smoothscroll from 'smoothscroll-polyfill';
 import React from "react";
 import Helmet from "react-helmet";
 import ReactMarkdown from 'react-markdown';
+import Pagination from 'rc-pagination';
+import 'rc-pagination/dist/rc-pagination.min.css';
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 import MainHeader from "../layouts/MainHeader/MainHeader";
@@ -25,6 +28,7 @@ import Footer from "../components/Footer/Footer";
 import AuthorModel from "../models/author-model";
 import Disqus from "../components/Disqus/Disqus";
 
+smoothscroll.polyfill();
 function parsePost(post, slug) {
   const result = post;
   if (!result.id) {
@@ -43,9 +47,24 @@ const formatReadNext = value => ({
   excerpt: value.excerpt
 });
 
+const getURLParams = () => {
+  const paramsStr = location.search.slice(1);
+  const paramsArr = paramsStr.split('&');
+  const paramsObj = {};
+  paramsArr.forEach((param) => { paramsObj[param.split('=')[0]] = param.split('=')[1]; });
+  return paramsObj;
+}
+
+const linesPerPage = () => {
+  const paramsObj = getURLParams();
+  return (paramsObj.l ? parseInt(paramsObj.l, 10) : 10);
+}
+
 class PostTemplate extends React.Component {
   state = {
-    menuOpen: false
+    menuOpen: false,
+    linesPerPage: linesPerPage(),
+    curPage: 1
   };
 
   handleOnClick = evt => {
@@ -70,9 +89,20 @@ class PostTemplate extends React.Component {
     this.setState({ menuOpen: false });
   };
 
+  handlePageChange = (current) => {
+    this.setState({ curPage: current });
+    setTimeout(() => {
+      window.scroll({ top: document.getElementById('content').offsetTop, left: 0, behavior: 'smooth' });
+    }, 200);
+  };
+
   clearMD = rawMD => rawMD.replace(/-{3}\n(.+\n)*-{3}\n/gmi, '');
 
-  renderHTML = obj => <div dangerouslySetInnerHTML={{__html: obj.value}} />
+  linesArr = md => md.split('\n\n');
+
+  curPageLines = md => this.linesArr(md).slice((this.state.curPage - 1) * this.state.linesPerPage, this.state.curPage * this.state.linesPerPage);
+
+  renderHTML = obj => <div dangerouslySetInnerHTML={{__html: obj.value}} />;
 
   render() {
     const { location, data } = this.props;
@@ -82,6 +112,7 @@ class PostTemplate extends React.Component {
     const post = parsePost(postNode.frontmatter, slug);
     const { cover, title, date, author, tags } = post;
     const className = post.post_class ? post.post_class : "post";
+    const totalLines = this.linesArr(this.clearMD(rawMD)).length;
     const authorData = AuthorModel.getAuthor(
       this.props.data.authors.edges,
       author,
@@ -120,8 +151,17 @@ class PostTemplate extends React.Component {
               </PostHeader>
 
               <section className="post-content">
-                <ReactMarkdown source={this.clearMD(rawMD)} renderers={{html: this.renderHTML}} />
+                <ReactMarkdown source={this.curPageLines(this.clearMD(rawMD)).join('\n\n')} renderers={{html: this.renderHTML}} />
               </section>
+              <div className="post-pagination">
+                <Pagination
+                  current={this.state.curPage}
+                  pageSize={this.state.linesPerPage}
+                  total={totalLines}
+                  hideOnSinglePage
+                  onChange={this.handlePageChange}
+                />
+              </div>
 
               <PostFooter>
                 <AuthorImage author={authorData} />
