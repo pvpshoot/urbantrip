@@ -1,16 +1,8 @@
 {
   "assetsByChunkName": {
-    "path---tags-other": [
-      "path---tags-other-99573f4ea0424028850e.js",
-      "path---tags-other-99573f4ea0424028850e.js.map"
-    ],
-    "path---tags-programming": [
-      "path---tags-programming-9dd56fe4d88feba34df3.js",
-      "path---tags-programming-9dd56fe4d88feba34df3.js.map"
-    ],
-    "path---author-guinevere": [
-      "path---author-guinevere-6d15f2a1a7a9ea05c7b6.js",
-      "path---author-guinevere-6d15f2a1a7a9ea05c7b6.js.map"
+    "path---tags-германия": [
+      "path---tags-германия-a6f3f33dab1150feba2a.js",
+      "path---tags-германия-a6f3f33dab1150feba2a.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -20,29 +12,25 @@
       "component---src-layouts-index-jsx-3a65373ae4666756cd5d.js",
       "component---src-layouts-index-jsx-3a65373ae4666756cd5d.js.map"
     ],
-    "path---categories-tech": [
-      "path---categories-tech-e6ea84d476b2bcfe051d.js",
-      "path---categories-tech-e6ea84d476b2bcfe051d.js.map"
-    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---вова-на-кавказе": [
-      "path---вова-на-кавказе-a3d844b64bef3b23efa5.js",
-      "path---вова-на-кавказе-a3d844b64bef3b23efa5.js.map"
+      "path---вова-на-кавказе-8da35387e375e70464dd.js",
+      "path---вова-на-кавказе-8da35387e375e70464dd.js.map"
     ],
     "path---author-vladimir": [
-      "path---author-vladimir-bc02cc12708cf4c09447.js",
-      "path---author-vladimir-bc02cc12708cf4c09447.js.map"
+      "path---author-vladimir-d2f23642026d0ef9aadf.js",
+      "path---author-vladimir-d2f23642026d0ef9aadf.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
     ],
     "path---index": [
-      "path---index-2dac2eee4b6411cc9f64.js",
-      "path---index-2dac2eee4b6411cc9f64.js.map"
+      "path---index-fc54af9e910dc0720680.js",
+      "path---index-fc54af9e910dc0720680.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
@@ -63,46 +51,46 @@
       "build-js-styles.css.map"
     ],
     "path---tags-сочи": [
-      "path---tags-сочи-9a87a2a0871219f04a6e.js",
-      "path---tags-сочи-9a87a2a0871219f04a6e.js.map"
+      "path---tags-сочи-5101c18aa212c4e4a958.js",
+      "path---tags-сочи-5101c18aa212c4e4a958.js.map"
+    ],
+    "path---author-boris-t": [
+      "path---author-boris-t-d2fea604efd27ba3c282.js",
+      "path---author-boris-t-d2fea604efd27ba3c282.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-20e23471da3d1e948797.js",
       "component---src-templates-tag-jsx-20e23471da3d1e948797.js.map"
     ],
     "path---боря-в-гостях-у-немчуры": [
-      "path---боря-в-гостях-у-немчуры-755d16a5e39424e17d75.js",
-      "path---боря-в-гостях-у-немчуры-755d16a5e39424e17d75.js.map"
+      "path---боря-в-гостях-у-немчуры-01d222001614d981dc23.js",
+      "path---боря-в-гостях-у-немчуры-01d222001614d981dc23.js.map"
     ],
     "path---categories-хуй": [
-      "path---categories-хуй-1cdabe766fb77f80e67a.js",
-      "path---categories-хуй-1cdabe766fb77f80e67a.js.map"
+      "path---categories-хуй-7d613ee4c5fc042545b8.js",
+      "path---categories-хуй-7d613ee4c5fc042545b8.js.map"
     ],
     "component---src-templates-index-jsx": [
-      "component---src-templates-index-jsx-0c345ce44bbdaeb0ab1d.js",
-      "component---src-templates-index-jsx-0c345ce44bbdaeb0ab1d.js.map"
+      "component---src-templates-index-jsx-5c046ffad070d7e89e32.js",
+      "component---src-templates-index-jsx-5c046ffad070d7e89e32.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-fea8c12a9f5059cdf7eb.js",
-      "component---src-templates-post-jsx-fea8c12a9f5059cdf7eb.js.map"
+      "component---src-templates-post-jsx-81f345fbaa50053bd5a3.js",
+      "component---src-templates-post-jsx-81f345fbaa50053bd5a3.js.map"
     ],
     "app": [
-      "app-9f9d8722f53af79ae9d5.js",
+      "app-96acfe9d2216c67e98e7.js",
       "build-js-styles.css",
-      "app-9f9d8722f53af79ae9d5.js.map",
+      "app-96acfe9d2216c67e98e7.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-грузия": [
-      "path---tags-грузия-45ce5da5917796eab87f.js",
-      "path---tags-грузия-45ce5da5917796eab87f.js.map"
-    ],
-    "path---tags-stuff": [
-      "path---tags-stuff-1c45644aea5e37d543e2.js",
-      "path---tags-stuff-1c45644aea5e37d543e2.js.map"
+      "path---tags-грузия-776dfdf7523e3ef8d105.js",
+      "path---tags-грузия-776dfdf7523e3ef8d105.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
