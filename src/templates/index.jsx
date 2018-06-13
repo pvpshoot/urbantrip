@@ -44,39 +44,37 @@ class IndexTemplate extends React.Component {
     this.setState({ menuOpen: false });
   };
 
-  renderHeader = () => null
-
-    // return (
-    //   <MainHeader cover={config.siteCover}>
-    //     <MainNav overlay={config.siteCover}>
-    //       <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
-    //       <MenuButton
-    //         navigation={config.siteNavigation}
-    //         onClick={this.handleOnClick}
-    //       />
-    //     </MainNav>
-    //     <div className="vertical">
-    //       <div className="main-header-content inner">
-    //         <PageTitle text={config.siteTitle} />
-    //         <PageDescription text={config.siteDescription} />
-    //         <SocialMediaIcons
-    //           urls={config.siteSocialUrls}
-    //           color="currentColor"
-    //         />
-    //       </div>
-    //     </div>
-    //     <Link
-    //       className="scroll-down icon-arrow-left"
-    //       to="content"
-    //       data-offset="-45"
-    //       spy
-    //       smooth
-    //       duration={500}
-    //     >
-    //       <span className="hidden">Scroll Down</span>
-    //     </Link>
-    //   </MainHeader>
-    // )
+  renderHeader = () => (
+    <MainHeader cover={config.siteCover}>
+      <MainNav overlay={config.siteCover}>
+        <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
+        <MenuButton
+          navigation={config.siteNavigation}
+          onClick={this.handleOnClick}
+        />
+      </MainNav>
+      <div className="vertical">
+        <div className="main-header-content inner">
+          <PageTitle text={config.siteTitle} />
+          <PageDescription text={config.siteDescription} />
+          <SocialMediaIcons
+            urls={config.siteSocialUrls}
+            color="currentColor"
+          />
+        </div>
+      </div>
+      <Link
+        className="scroll-down icon-arrow-left"
+        to="content"
+        data-offset="-45"
+        spy
+        smooth
+        duration={500}
+      >
+        <span className="hidden">Scroll Down</span>
+      </Link>
+    </MainHeader>
+  )
     
   
 
@@ -91,7 +89,8 @@ class IndexTemplate extends React.Component {
       next
     } = this.props.pathContext;
     const authorsEdges = this.props.data.authors.edges;
-
+    console.log(nodes);
+    
     return (
       <Drawer className="home-template" isOpen={this.state.menuOpen}>
         <Helmet title={config.siteTitle} />

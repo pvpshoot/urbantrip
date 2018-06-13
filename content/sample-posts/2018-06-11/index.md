@@ -3,7 +3,7 @@ title: "Вова на кавказе"
 cover: "http://v-georgia.com/wp-content/uploads/2017/09/shutterstock_1480655391-1920x12801500.jpg"
 author: "Vladimir"
 date: "2018-06-04"
-category: "ХУЙ"
+category: ""
 tags:
     - Грузия
     - Сочи

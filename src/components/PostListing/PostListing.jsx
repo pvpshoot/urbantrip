@@ -1,14 +1,15 @@
-import React from "react";
-import Link from "gatsby-link";
-import AuthorThumbnail from "../AuthorThumbnail/AuthorThumbnail";
-import PostTags from "../PostTags/PostTags";
-import SiteConfig from "../../../data/SiteConfig";
+import "./PostListing.css";
+
 import AuthorLink from "../AuthorLink/AuthorLink";
+import AuthorModel from "../../models/author-model";
+import AuthorThumbnail from "../AuthorThumbnail/AuthorThumbnail";
+import Link from "gatsby-link";
+import PostDate from "../PostDate/PostDate";
 import PostFormatting from "../../layouts/PostFormatting/PostFormatting";
 import PostHeader from "../../layouts/PostHeader/PostHeader";
-import PostDate from "../PostDate/PostDate";
-import AuthorModel from "../../models/author-model";
-import "./PostListing.css";
+import PostTags from "../PostTags/PostTags";
+import React from "react";
+import SiteConfig from "../../../data/SiteConfig";
 
 const getPostList = (postEdges, authorEdges) =>
   postEdges.map(postEdge => ({
@@ -22,7 +23,7 @@ const getPostList = (postEdges, authorEdges) =>
       postEdge.node.frontmatter.author,
       SiteConfig.blogAuthorId
     ),
-    excerpt: postEdge.node.excerpt,
+    excerpt: postEdge.node.excerpt.replace(/<[^*]*>/gm, ''),
     timeToRead: postEdge.node.timeToRead
   }));
 
