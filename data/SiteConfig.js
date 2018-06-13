@@ -5,7 +5,7 @@ module.exports = {
   siteTitle: "UrbanRuTrip", // Site title.
   siteTitleAlt: "UrbanRuTrip", // Alternative site title for SEO.
   siteLogo:
-    "/logos/logo.jpg", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
+    "https://hb.bizmrg.com/urbantrip/media/avatars/logo.jpg", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://pvpshoot.github.io/", // Domain of your website without pathPrefix.
   pathPrefix: "/urbantrip", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
