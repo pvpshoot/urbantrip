@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---tags-германия": [
-      "path---tags-германия-438af017affebd3d29bf.js",
-      "path---tags-германия-438af017affebd3d29bf.js.map"
+      "path---tags-германия-ef0a23dcf23bfb66b2e6.js",
+      "path---tags-германия-ef0a23dcf23bfb66b2e6.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -17,8 +17,8 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---вова-на-кавказе": [
-      "path---вова-на-кавказе-2fa51382a7df10007962.js",
-      "path---вова-на-кавказе-2fa51382a7df10007962.js.map"
+      "path---вова-на-кавказе-4b65317b62bc54e60027.js",
+      "path---вова-на-кавказе-4b65317b62bc54e60027.js.map"
     ],
     "path---author-vladimir": [
       "path---author-vladimir-ed1afe90c085ba28eee3.js",
@@ -29,12 +29,12 @@
       "path---author-alcopanda-7e55d26c11b4ead224e0.js.map"
     ],
     "path---алкотрип-в-абхазию": [
-      "path---алкотрип-в-абхазию-c81739b835d6f1ec3157.js",
-      "path---алкотрип-в-абхазию-c81739b835d6f1ec3157.js.map"
+      "path---алкотрип-в-абхазию-04fa286ee0eb387b24ce.js",
+      "path---алкотрип-в-абхазию-04fa286ee0eb387b24ce.js.map"
     ],
     "path---index": [
-      "path---index-5a30c8e92e3f8d0f2fa6.js",
-      "path---index-5a30c8e92e3f8d0f2fa6.js.map"
+      "path---index-1ffdbe872f925e989739.js",
+      "path---index-1ffdbe872f925e989739.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
@@ -45,14 +45,14 @@
       "component---src-templates-author-jsx-5605c1aa2abec65d555c.js.map"
     ],
     "commons": [
-      "commons-d52c050a4700589d03e8.js",
+      "commons-7f74e941dcba1ae26704.js",
       "build-js-styles.css",
-      "commons-d52c050a4700589d03e8.js.map",
+      "commons-7f74e941dcba1ae26704.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-сочи": [
-      "path---tags-сочи-b631bef2ff367cdc692f.js",
-      "path---tags-сочи-b631bef2ff367cdc692f.js.map"
+      "path---tags-сочи-88f4c18ae7852bd59edf.js",
+      "path---tags-сочи-88f4c18ae7852bd59edf.js.map"
     ],
     "path---author-boris-t": [
       "path---author-boris-t-115b50b6213051948d02.js",
@@ -63,12 +63,12 @@
       "component---src-templates-tag-jsx-923362ff8cbc2f920c69.js.map"
     ],
     "path---боря-в-гостях-у-немчуры": [
-      "path---боря-в-гостях-у-немчуры-ac81e2b7f39509d73319.js",
-      "path---боря-в-гостях-у-немчуры-ac81e2b7f39509d73319.js.map"
+      "path---боря-в-гостях-у-немчуры-30001653db50cea4b3fa.js",
+      "path---боря-в-гостях-у-немчуры-30001653db50cea4b3fa.js.map"
     ],
     "path---tags-абхазия": [
-      "path---tags-абхазия-525746b415a023d41bd4.js",
-      "path---tags-абхазия-525746b415a023d41bd4.js.map"
+      "path---tags-абхазия-ffd399ad05bd20965dbd.js",
+      "path---tags-абхазия-ffd399ad05bd20965dbd.js.map"
     ],
     "component---src-templates-index-jsx": [
       "component---src-templates-index-jsx-0907c5ead0c44ba1ddd4.js",
@@ -89,8 +89,8 @@
       "build-js-styles.css.map"
     ],
     "path---tags-грузия": [
-      "path---tags-грузия-23ca36f053cdade94b1b.js",
-      "path---tags-грузия-23ca36f053cdade94b1b.js.map"
+      "path---tags-грузия-40dccd93564fe64a2dc4.js",
+      "path---tags-грузия-40dccd93564fe64a2dc4.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
