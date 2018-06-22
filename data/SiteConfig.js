@@ -6,8 +6,8 @@ module.exports = {
   siteTitleAlt: "UrbanRuTrip", // Alternative site title for SEO.
   siteLogo:
     "https://hb.bizmrg.com/urbantrip/media/avatars/logo.jpg", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://pvpshoot.github.io/", // Domain of your website without pathPrefix.
-  pathPrefix: "/urbantrip", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  siteUrl: "https://urbanli.ch/", // Domain of your website without pathPrefix.
+  pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "О желании рассказать о своем трипе писать @urbanlich. Рекомендации по вещанию http://telegra.ph/Urban-RuTrip-05-28", // Website description used for RSS feeds/meta description tag.
   siteCover:
@@ -38,7 +38,7 @@ module.exports = {
     },
     {
       label: "Email",
-      url: "mailto:gatsbyjs@example.com",
+      url: "mailto:pvpshoot@gmail.com",
       iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
     }
   ],
