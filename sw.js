@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/urbantrip/app-7cbcf70f63cdc11322d0.js","0cf7f57c281809b3f27b65f6199ae7d7"],["/urbantrip/commons-7f74e941dcba1ae26704.js","afff663a58c486eb37153b2660e93c25"],["/urbantrip/index.html","a32dd417eb5b7f90f9e85ef8d3851e92"],["/urbantrip/offline-plugin-app-shell-fallback/index.html","38bd54267ba17ed3a849aa866a976ffe"]];
+var precacheConfig = [["/app-7cbcf70f63cdc11322d0.js","e523f2f0725634f102d7c308fd2c9d87"],["/commons-e4d94b60abd39ef62f26.js","a5551528067c072d048b208c232b9af5"],["/index.html","6be7266045dc2708e0c86c189696293a"],["/offline-plugin-app-shell-fallback/index.html","d521d56384247b685631f193ea8397bc"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
