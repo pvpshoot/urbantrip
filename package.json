@@ -72,6 +72,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
+    "test": "echo TEST",
     "develop": "rm -rf ./cache && gatsby develop",
     "serve": "gatsby serve",
     "build": "gatsby build",
