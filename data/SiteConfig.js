@@ -7,7 +7,7 @@ module.exports = {
   siteLogo:
     "https://hb.bizmrg.com/urbantrip/media/avatars/logo.jpg", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://urbanli.ch/", // Domain of your website without pathPrefix.
-  // pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "О желании рассказать о своем трипе писать @urbanlich. Рекомендации по вещанию http://telegra.ph/Urban-RuTrip-05-28", // Website description used for RSS feeds/meta description tag.
   siteCover:
