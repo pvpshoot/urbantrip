@@ -8,86 +8,165 @@ tags:
     - Грузия
     - Сочи
 ---
-<div class="tg-timestamp">15:44</div>
-#nextrip будет от меня, следующие две недели я буду вас утомлять собой. Сейчас я транзитом в Сочи, чтобы завтра оказаться в Грузии. В Сочи особо нечего смотреть, на обратном пути будет время погулять.  Чуть позже дам подробностей про то, где и чего и как. 
+<div class="tg-timestamp">15:44</div>#nextrip будет от меня, следующие две недели я буду вас утомлять собой. Сейчас я транзитом в Сочи, чтобы завтра оказаться в Грузии. В Сочи особо нечего смотреть, на обратном пути будет время погулять.  Чуть позже дам подробностей про то, где и чего и как. 
+
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4365.jpg "Vladimir")
+>Для затравочки кису вам из холла хостела.
 
 <div class="tg-timestamp">19:26</div>Так, мы вроде осели в баре и я готов рассказывать. Маршрут в этом году такой: Батуми, Тбилиси, Ереван, Сочи. В Батуми хотели по морю, но два дня назад метеор отменили, пришлось на ходу менять планы и до Батуми через Тбилиси. И это всё равно дешевле прямого перелёта Казань - Тбилиси. Посмотрим как оно всё пойдёт. 
 
-![2018-06-04](https://hb.bizmrg.com/urbantrip/media/2018-6/4365.jpg "Vladimir")
+
+<div class="tg-timestamp">19:31</div>Главная забота вечера это найти приличный бар в Сочи, с этим тут проблема. 
+Норм Гринвич у МорПорта, бургерная на Орджоникидзе “burgerman” и сейчас мы в Los Machetos где-то в ебенях Сочи. Фоток еды не будет, обойдетесь. Ща пара фоточек и хватит с вас на сегодня, натерпелись, маленькие, за два дня до этого. 
 
 
-<div class="tg-timestamp">19:31</div>Главная забота вечера это найти приличный бар в Сочи, с этим тут проблема. \nНорм Гринвич у МорПорта, бургерная на Орджоникидзе “burgerman” и сейчас мы в Los Machetos где-то в ебенях Сочи. Фоток еды не будет, обойдетесь. Ща пара фоточек и хватит с вас на сегодня, натерпелись, маленькие, за два дня до этого. 
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4368.jpg "Vladimir")
+>Коты тут везде, кошак с фотки выше так и лежит на банкомате.
 
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4369.jpg "Vladimir")
+>Оформление туалета в бургерной.
 
-![2018-06-04](https://hb.bizmrg.com/urbantrip/media/2018-6/4368.jpg "Vladimir")
-![2018-06-04](https://hb.bizmrg.com/urbantrip/media/2018-6/4369.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4370.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4371.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4370.jpg "Vladimir")
+>Точно никто не пройдёт. До вечера ничего полезного не ждите.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4371.jpg "Vladimir")
+>Странная форма предложения
+
 <div class="tg-timestamp">11:27</div>Ща немного расскажу про Олимпийский парк. К нему лучше всего на Ласточке (электричка такая) ехать. От Сочи до Имеретинского курорта, 50 минут и 155 рублей. 
 
 
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4373.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4374.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4375.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4376.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4377.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4373.jpg "Vladimir")
+>Артефакты Олимпийских игр уже потрепаны.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4374.jpg "Vladimir")
+>Приметы будущего чемпионата
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4375.jpg "Vladimir")
+>За 4 года деревья пошли в рост и стало уютнее, везде работники парка приводят все в порядок.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4376.jpg "Vladimir")
+>Кусок трассы с Формулы1 с трибунами тут же в парке
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4377.jpg "Vladimir")
+>Общая панорама; Фишт, там матчи будут, шайба, факел, за ним Большой,Адлер арена и Айсберг
+
 <div class="tg-timestamp">11:54</div>Ща всё поближе будет 
 
 
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4379.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4380.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4381.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4382.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4383.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4384.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4385.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4386.jpg "Vladimir")
-![2018-06-05](https://hb.bizmrg.com/urbantrip/media/2018-6/4387.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4379.jpg "Vladimir")
+>Фишт, его расширили, ранее тут были открытие и закрытие игр
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4380.jpg "Vladimir")
+>Факел с самого выгодного ракурса, во время Олимпиады мы его называли «хуй Путина»
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4381.jpg "Vladimir")
+>Шайба, тут были хоккейные матчи, а в конце месяца тут Тимати :(
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4382.jpg "Vladimir")
+>За забором Большой тоже там хоккей был
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4383.jpg "Vladimir")
+>Айсберг, тут было фигурное катание
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4384.jpg "Vladimir")
+>Тут просят нормальный ракурс факела
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4385.jpg "Vladimir")
+>И последний стадион: Адлер арена, тут всякий шорт-трек и конькобежцы тусили. Между Большим и Ареной был ещё Куб, но его разобрали и куда-то увезли, там кёрлинг был
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4386.jpg "Vladimir")
+>Ещё один выгодный ракурс гг
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4387.jpg "Vladimir")
+>В той стороне Абхазия, где тюленят https://t.me/traveldickheads
+
 <div class="tg-timestamp">19:32</div>Гомарджоба чоли. Мы в Тбилиси ждём отправления в Батуми. Не обошлось без приключений, обещанная электричка в 0.35 отменилась и пришлось в панике искать альтернативу, нашлась просто, благодаря спасительному крику водилы: Кутаиииси, Батуумии. 20 лари и 4 часа в дороге. 
 
 
-<div class="tg-timestamp">19:36</div>Первые впечатления:\n- в аэропорту плохая навигация, мало подстрочника на английском \n- до жд вокзала ходит автобус 37, внезапно бесплатный\n- на том же жд навигация будет лучше \n- русский язык худо бедно знают\n- вечерний город красивый\n- сигареты недорогие 
+<div class="tg-timestamp">19:36</div>Первые впечатления:
+- в аэропорту плохая навигация, мало подстрочника на английском 
+- до жд вокзала ходит автобус 37, внезапно бесплатный
+- на том же жд навигация будет лучше 
+- русский язык худо бедно знают
+- вечерний город красивый
+- сигареты недорогие 
 
 
 <div class="tg-timestamp">9:36</div>Теперь я могу говорить, что объехал всю Грузию гг Дорога живописна, даже ночью, постоянно деревеньки, городки. Только вот поспать в дороге не получилось, удобств было минимум для этого. 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4391.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4392.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4393.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4394.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4391.jpg "Vladimir")
+>Вот так это выглядит примерно
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4392.jpg "Vladimir")
+>Вид из окна неплохой.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4393.jpg "Vladimir")
+>А это его обратная сторона. Тут везде так, лакшери и разъебанные, заброшенные, недостроенные  дома рядом
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4394.jpg "Vladimir")
+>Ещё трущоб
+
 <div class="tg-timestamp">11:13</div>По отношению к русским. Молодые не то чтобы смотрят как на говно, но не уютно в общении с ними, русский почти не знают, английский не знают совсем, непонятно как донести до них свою мысль, более старые грузины добрее и на русском норм. 
 
 
 <div class="tg-timestamp">12:20</div>Пешеходом тут быть опасно, водилы хуй клали на зебры, ну а пешеходы тоже клали на разметку и переходят где вздумается 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4397.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4398.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4399.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4397.jpg "Vladimir")
+>Местная остановка
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4398.jpg "Vladimir")
+>Внезапно макдак выпендрежный
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4399.jpg "Vladimir")
+>Хз чо хотят, но волнительно. А в мак мы зашли за кофе, чур не орать
+
 <div class="tg-timestamp">13:51</div>Немного шовинизма от грузинского таксиста: «Женщина должна работать на кухне и в постели, нечего ей за руль садиться» 
 
 
 <div class="tg-timestamp">14:10</div>Ну и как на это реагировать? 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4402.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4403.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4404.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4405.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4406.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4402.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4403.jpg "Vladimir")
+>Общий вот вид на город
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4404.jpg "Vladimir")
+>Рыбаки в порту, судя по ведеркам улова нет
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4405.jpg "Vladimir")
+>Виды всё ж отличные
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4406.jpg "Vladimir")
+>Та самая скульптура Нино и Али
+
 <video controls src="https://hb.bizmrg.com/urbantrip/media/2018-6/4407.mp4"></video>
+ >И разошлись они как в море корабли
+
 <div class="tg-timestamp">14:49</div>Ну вы поняли, что это таймлампс, да? 5 минут весь этот процесс занял 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4409.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4410.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4411.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4409.jpg "Vladimir")
+>Эта штука памятник грузинскому алфавиту
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4410.jpg "Vladimir")
+>Так много вопросов и так мало ответов
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4411.jpg "Vladimir")
+>Набережная Батуми классическая, есть где погулять, есть чем развлечься, есть чем перекусить. Но вот всё на грузинском, подстрочников на других языках нет.
+
 <div class="tg-timestamp">15:6</div>Рай модника в местных магазинах: armani, balenciaga, prada, dsquared по 10 лар, в рублях это 250. 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4413.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4414.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4413.jpg "Vladimir")
+>Часть дороги в брусчатке, ехать по такому не очень
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4414.jpg "Vladimir")
+>Встретили первый работающий пешеходный светофор
+
 <div class="tg-timestamp">15:15</div>Движение оживленное, все сигналят, орут из окон, машут руками 
 
 
@@ -97,24 +176,36 @@ tags:
 <div class="tg-timestamp">15:50</div>Пока несут еду, про цены. Не скажу, что прям дешево, но и не дорого тут. Такси из одного конца в другой 7 лари, тут Яндекс.Такси есть, счетчик, наш немного кружил при этом. В супермаркетах есть местное и российское, по ценам похоже на наше. Еда в кабаках за недорого. 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4418.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4418.jpg "Vladimir")
+>Это всё на 800 рублей.
+
 <div class="tg-timestamp">16:1</div>Дальше, проезд в автобусах по 40 тетри, то бишь около 12 рублей. Надо купить у кондуктора, проколоть в машинке и ехать дальше. 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4420.jpg "Vladimir")
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4421.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4420.jpg "Vladimir")
+>Я тут жить останусь, бокал Саперави 120 рублей
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4421.jpg "Vladimir")
+>Итого, чек на троих еда и бухло, в рублях 1900, привет Боря и Коля гг
+
 <video controls src="https://hb.bizmrg.com/urbantrip/media/2018-6/4422.mp4"></video>
+ >Таймлапс закатный
+
 <div class="tg-timestamp">18:11</div>Ощм, стоит выучить пару слов на грузинском и все ок. «Мадлоба», спасибо то есть по-местному, к месту и не к месту способствует потеплению отношения и вообще.  «Гомарджоба» - здравствуйте, имеет тот же эффект. 
 
 
 <div class="tg-timestamp">18:13</div>Зашли в бар на шот, спросили егерь, нам сурово сказали «нэт», спросили «а чача есть?» бармен расплылся в улыбке, закивал и сразу же налил, пока пили внимательно следили за реакцией. Ну чача и чача, с небольшим привкусом ацетона, но не как обычно 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4425.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4425.jpg "Vladimir")
+>Аттракцион Дом вверх дном вышел на новый уровень
+
 <div class="tg-timestamp">18:50</div>На самом деле это ресторан 
 
 
-![2018-06-06](https://hb.bizmrg.com/urbantrip/media/2018-6/4427.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4427.jpg "Vladimir")
+>То самое квеври.
+
 <div class="tg-timestamp">19:17</div>Вот что про него пишет вики: Квеври (сосуд) закапывают в землю по самую горловину и закладывают в него виноград, часто — вместе с гребнями виноградных гроздей. Во время активного брожения, под действием углекислого газа шапка мезги поднимается к горловине кувшина, а когда брожение завершается, и газ выходит наружу, она оседает на дно, и квеври запечатывают до весны. Так в помещениях, где хранятся квеври с вином марани, вино вызревает и настаивается на мезге (то есть на кожице, косточках и гребнях) несколько месяцев. Весной кувшины вскрывают, вино снимают с осадка и начинают пить. 
 
 
@@ -124,7 +215,9 @@ tags:
 <div class="tg-timestamp">19:38</div>Ощм хорошее красное сухое 
 
 
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4431.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4431.jpg "Vladimir")
+>Доброутро, попытался сделать селфи в лифте, получилось не очень
+
 <div class="tg-timestamp">8:40</div>Текс, у вас 4 минуты, первым трём написавшим я попытаюсь отправить открытку из Батуми, писать @urbanlich 
 
 
@@ -134,39 +227,67 @@ tags:
 <div class="tg-timestamp">8:42</div>И всё:) прием окончен 
 
 
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4435.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4435.jpg "Vladimir")
+>Офис Georgian post, филиал ада, как и Почта РФ, единственная разница есть кондиционер.
+
 <div class="tg-timestamp">8:53</div>В качестве экранов под электронную очередь используют айпады 
 
 
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4437.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4438.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4439.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4440.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4437.jpg "Vladimir")
+>Кто там чо говорил, что у нас паркуются как мудаки?
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4438.jpg "Vladimir")
+>Интересно, а Тим Кук знает что у него есть магазин в Батуми?
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4439.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4440.jpg "Vladimir")
+>Какой бы лакшери дом не был, белье будет висеть
+
 <video controls src="https://hb.bizmrg.com/urbantrip/media/2018-6/4441.mp4"></video>
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4442.jpg "Vladimir")
+ >Немного рыночной жизни
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4442.jpg "Vladimir")
+
 <div class="tg-timestamp">10:18</div>Эт мы наверх ползем 
 
 
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4444.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4444.jpg "Vladimir")
+>Панорама сверху
+
 <div class="tg-timestamp">10:28</div>Цена фуникулёра 15 лари, кафеха наверху с ценами х3 по сравнению с низом. 
 
 
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4446.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4447.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4448.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4449.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4450.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4446.jpg "Vladimir")
+>МашаМакс, тут тоже ок лимонад, не сладенько
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4447.jpg "Vladimir")
+>Зеленки вот вам
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4448.jpg "Vladimir")
+>Внезапно кладбище
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4449.jpg "Vladimir")
+>24 на 5 знаю, 24 на 7 тоже, а 24 на 24 это как?
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4450.jpg "Vladimir")
+>Нуф сейд
+
 <div class="tg-timestamp">11:37</div>Хинкали, кстати, по 60-80 тетри, это меньше 20 рублей за штуку. 
 
 
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4452.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4452.jpg "Vladimir")
+>В понимании грузин это маленькое хачапури
+
 <div class="tg-timestamp">12:4</div>Ненавистникам кинзы, тут она везде, но в меру, с ней не перебарщивают, как в Ульяновске, когда не понимаешь это мясо с кинзой или кинза с мясом. 
 
 
 <div class="tg-timestamp">12:6</div>Мы зашли в Шумерули, ресторанчик с собственной пивоварней, 0,5 пива за 50ре, отдельно могут налить в кружку из льда. Вот ее сейчас и ждём. 
 
 
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4455.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4455.jpg "Vladimir")
+>Оно реально из льда, в подстаканнике.
+
 <div class="tg-timestamp">12:13</div>Пить надо аккуратно, в первую попытку получилось, как лизнуть качельку зимой 
 
 
@@ -183,47 +304,83 @@ tags:
 
 
 <video controls src="https://hb.bizmrg.com/urbantrip/media/2018-6/4461.mp4"></video>
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4462.jpg "Vladimir")
+ >Объемная реклама на жд вокзале Батуми, видео такое себе
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4462.jpg "Vladimir")
+>Электрички тут такие, Stadler двухэтажный, билеты на два класса, хотели поехать, как боги за 1000 рублей в первом, но он кончился и поедем, как нищеброды во втором за 500 рублей
+
 <div class="tg-timestamp">13:51</div>Если ездили в аэроэкспрессе в Москве, то вы автоматом ездили в электричке Батуми- Тбилиси 
 
 
 <div class="tg-timestamp">14:19</div>В кабаках Батуми такая же история 
 
 
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4465.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4466.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4467.jpg "Vladimir")
-![2018-06-07](https://hb.bizmrg.com/urbantrip/media/2018-6/4468.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4465.jpg "Vladimir")
+>Интересная тема с мокрой салфеткой в пепельницах на верандах, чтобы пепел не разлетался.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4466.jpg "Vladimir")
+>Немного вредности. Прогноз погоды на следующие три дня в Тбилиси, привет ульяновские +14
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4467.jpg "Vladimir")
+>Мы в Тбилиси, ура, хозяева квартиры душки, в качестве привета оставили бутылку вина.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4468.jpg "Vladimir")
+>Живём мы у площади Свободы, то есть в самом центре, дом в закоулке и искали мы его сложно, классический грузинский частный дом, в радиусе 500 метров около 30 баров, кафех, наверное, и того больше.
+
 <div class="tg-timestamp">9:38</div>Мне пока лень писать в прямом эфире, вечером всё расскажу. 
 
 
 <div class="tg-timestamp">13:8</div>Сегодня бездумно шляемся куда ноги заведут. Полезли к крепости Нарикала, бывшей оборонительной цитадели. На ее территории есть церковь,  станция подъёмника (работает по метрокарте) и начало ботанического сада. Прогулялись по улице Коте Абхази и ее веткам, походу жральный квартал и много винных магазинов, в кабаках чаевые включены в счет, размер 10-15%, что сильно снижает качество сервиса, официанты на расслабоне и не особо парятся. Цены в кабаках, как в Ульяновске, готовят хорошо.  Эффект «мадлоба» тут тоже работает. 
 
 
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4471.jpg "Vladimir")
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4472.jpg "Vladimir")
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4473.jpg "Vladimir")
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4474.jpg "Vladimir")
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4475.jpg "Vladimir")
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4476.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4471.jpg "Vladimir")
+>На обрыве над Курой, это река такая, дома.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4472.jpg "Vladimir")
+>Вид с крепости.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4473.jpg "Vladimir")
+>А это мост Мира, пешеходный
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4474.jpg "Vladimir")
+>Псины бездомные все чипированные, дружелюбные
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4475.jpg "Vladimir")
+>¯\_(ツ)_/¯
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4476.jpg "Vladimir")
+>Псины могут просто валятся по середине тротуара, им ваще ок
+
 <div class="tg-timestamp">13:50</div>Ооооочень много попрошаек всех возрастов 
 
 
 <video controls src="https://hb.bizmrg.com/urbantrip/media/2018-6/4478.mp4"></video>
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4479.jpg "Vladimir")
+ >Немного уличной жизни
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4479.jpg "Vladimir")
+>h&m тут так
+
 <div class="tg-timestamp">15:5</div>Забрели в бар Black dog bar, он далеко от туристических маршрутов, на вывеске написано pet friendly. Так и есть, за барной стойкой вместе с барменами псина работает. Тут подают настойки на чаче, пока распробовали на лепестках роз, ацетона во вкусе совсем нет и это хорошо. 
 
 
 <div class="tg-timestamp">15:39</div>В барах лучше брать вино у которого есть приписка house wine, вкуснее и дешевле, сорта классические Киндзмараули, Мтцеви, Саперави, Мукузани, Цинандали, от 5 до 9 лари за бокал, ну то есть 125-175 рублей 
 
 
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4482.jpg "Vladimir")
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4483.jpg "Vladimir")
-![2018-06-08](https://hb.bizmrg.com/urbantrip/media/2018-6/4484.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4482.jpg "Vladimir")
+>Пейте вино и будет вам щастье
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4483.jpg "Vladimir")
+>Так, прошлое квеври оказалось таки красным, сейчас разжился все ж сухим оранжевым урожая 2011, необычно на вкус, цена вопроса 32 лара, это около 800р, пора это называть #vinishkotrip
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4484.jpg "Vladimir")
+>Ещё совет, в меню кабаков не указан вес, спросите заранее о размере порции, иначе будет как на фото, мне вообще принесли таз оджахури, которым три человека наедятся
+
 <div class="tg-timestamp">19:18</div>Откровение дня: 24/24 это круглосуточно, кто бы мог подумать 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4486.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4486.jpg "Vladimir")
+>Мы выехали в Мцхету на экскурсию, позже расскажу
+
 <div class="tg-timestamp">8:52</div>Ух, в Мцхети хорошо, мы проехались по 3 храмам этой древней столицы Грузии, с индивидуальной экскурсией, нашли ее на tripster.ru. Буду нимношк рассказывать. 
 
 
@@ -233,43 +390,75 @@ tags:
 <div class="tg-timestamp">8:58</div>Город в сейсмоопасной зоне, часты землетрясения, последнее в 4 балла было позавчера, а сначала года их было около 160 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4490.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4490.jpg "Vladimir")
+>Домишко построен специально, чтобы пережить тряску, у него хитрая система осей, которые отвечают за устойчивость.
+
 <div class="tg-timestamp">9:3</div>В городе есть три условные зоны, старый город до прихода русской власти, район с постройками русских и район с постройками советских властей. 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4492.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4492.jpg "Vladimir")
+
 <div class="tg-timestamp">9:10</div>На вершине первый храм Джвари, внутри в качестве алтаря фундамент этой же церкви постройки 4 века, а стены нынешнего постройка 7 века. В Грузии, если требуется увеличить церковь, ее не ломают а используют ее запчасти для расширения. 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4494.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4495.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4496.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4497.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4498.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4499.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4494.jpg "Vladimir")
+>Вот поближе.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4495.jpg "Vladimir")
+>Видов с вершины вот ещё
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4496.jpg "Vladimir")
+>Это собственно алтарь внутри храма, тот самый фундамент прежнего, трава не приклеена, она там растет. Искусственного освещения нет, всё засечёт окон под куполом.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4497.jpg "Vladimir")
+>Бликует со всех ракурсов, поэтому так, ещё нагрузочная функция окон это показ времени по солнцу.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4498.jpg "Vladimir")
+>Это входная группа.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4499.jpg "Vladimir")
+>Сделаю перерыв и продолжу
+
 <div class="tg-timestamp">10:5</div>Теперь про название Грузия, самоназвание страны Сакартвело, в европейских странах она Джорджия(Георгия) есть предположение, что по имени святого Георгия. Также есть древнее название Иберия, что с арамейского переводится как «страна чистого колодца», появилось название из-за евреев, которые сюда как-то забрели и стали жить тут, они были ортодоксами и их называли чистыми, как вода в колодце- бер, а когда говорили про них «и бер» - в колодце, отсюда Иберия. Русское название предположительно от турецкого слова «гурджи» - волк, турки орали на местных этим словом, называя их волками. 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4501.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4501.jpg "Vladimir")
+>Второй храм построен на месте хижины Нино, про нее потом, а вам вот ослика припаркованного.
+
 <div class="tg-timestamp">10:21</div>Сам храм я не фоткал, так расскажу, название Самтавро, рядом действующий женский монастырь с часовней на месте хижины. Нино это крестительница Грузии, ну как у нас князь Владимир, только баба. Она была из Ассирии и вроде как получила во сне от мамы Иисуса поручение покрестить Иберию. Ну чо делать, спорить не стала и пошла. В Иберии жили язычники со всеми своими развлечениями - жертвоприношениями, в том числе и человеческими. Пришла Нино и говорит местному царю, го в истинного бога верить, тот ее послал. Нино не растерялась и пригрозила спрятать солнце и спрятала. Царь испугался и заорал «эй, чужой бог верни солнце» и солнце вернулось. После этого местные жители пошли креститься. Мораль истории: учите астрономию. 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4503.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4503.jpg "Vladimir")
+>Это крест Нино, по преданию она его сделала из веток винограда и перевязала своими волосами. Оригинал хранится в одном из тбилисских храмов
+
 <div class="tg-timestamp">10:26</div>Такие кресты стоят по всей Грузии вдоль дорог 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4505.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4505.jpg "Vladimir")
+>И третий храм Светицкховели. Постройка первого храма в 5 веке, достройка и укрупнение в 12 веке, сожжен персидским шахом в 16, восстановлен в 17 веке.
+
 <div class="tg-timestamp">10:30</div>Построен нарочито ассимитричным, а не из-за кривых рук, мол, только сверху могут в совершенство, а нам нельзя. 
 
 
-<div class="tg-timestamp">10:43</div>У храма есть легенда, пришёл грузинский царь на место, где Нино нашла хитон Иисуса триста лет назад, там рос кедр ливанский, его спилили, сделали семь брёвен и стали строить, седьмое бревно чот полетело и встало над пнем кедра и замироточило. Вокруг него и построили храм. Бревно стоит и сейчас, мироточить перестало после сожжения от шаха, его обнесли камнем. \nВ 12 веке, расширять храм стал один местный архитектор, храм получился красивым и учитель архитектора обзавидовался и стал его очернять перед лицом общественности, та для начала отрубила ему правую руку, а потом и вовсе казнила. Руку вмуровали под крышу храма. 
+<div class="tg-timestamp">10:43</div>У храма есть легенда, пришёл грузинский царь на место, где Нино нашла хитон Иисуса триста лет назад, там рос кедр ливанский, его спилили, сделали семь брёвен и стали строить, седьмое бревно чот полетело и встало над пнем кедра и замироточило. Вокруг него и построили храм. Бревно стоит и сейчас, мироточить перестало после сожжения от шаха, его обнесли камнем. 
+В 12 веке, расширять храм стал один местный архитектор, храм получился красивым и учитель архитектора обзавидовался и стал его очернять перед лицом общественности, та для начала отрубила ему правую руку, а потом и вовсе казнила. Руку вмуровали под крышу храма. 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4508.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4509.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4510.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4511.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4512.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4508.jpg "Vladimir")
+>Это остатки фрески 12 века.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4509.jpg "Vladimir")
+>Внутри этой штуки по центру то самое бревно.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4510.jpg "Vladimir")
+>Остатки оформления от 5 века, лица у чуваков стерты не временем, а язычниками во время набегов.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4511.jpg "Vladimir")
+>Внутри куча паломников, грузины очень верующие люди, включая молодёжь, только без показухи, как у нас.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4512.jpg "Vladimir")
+>Это цветущий гранат, красивый. Про храмы всё, отдохнём и пойдем дальше гулять.
+
 <div class="tg-timestamp">11:9</div>А, это, обычное развлечение, трем человекам, кто пришлёт свой почтовый адрес с индексом мне в следующие 5 минут вышлю открытку из Тбилиси - писать @urbanlich 
 
 
@@ -288,35 +477,58 @@ tags:
 <div class="tg-timestamp">12:31</div>Про чурчхелу. Настоящая чурчхела черного, бурого или коричневого цвета, если зелёная, красная и других цветов, это не чурчхела, а хер знает что. Чурчхелу делают из вываренного виноградного сока с добавлением грецких орехов или фундука. Если на чурчхеле налет это сахароза, не плесень, означает, что она прошлогодняя. 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4519.jpg "Vladimir")
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4520.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4519.jpg "Vladimir")
+>Они везде
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4520.jpg "Vladimir")
+>Это общая панорама Тбилиси, на ней он вееееесь
+
 <div class="tg-timestamp">13:28</div>Взяли свежевыжатый гранатовый сок, цена вопроса 350 ре, на вкус не та кислятина в бутылках из магазинов 
 
 
-![2018-06-09](https://hb.bizmrg.com/urbantrip/media/2018-6/4522.jpg "Vladimir")
-<div class="tg-timestamp">20:46</div>Готовимся к Еревану, чувствую будут трудности с благодарностями, это спасибо по-армянски:\nshnorhakalut’yun\nКак же быть.. 
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4522.jpg "Vladimir")
+>Поужинали на берегу Черепашьего озера, говорят тут и правда черепахи водятся, но мы их не видели.
+
+<div class="tg-timestamp">20:46</div>Готовимся к Еревану, чувствую будут трудности с благодарностями, это спасибо по-армянски:
+shnorhakalut’yun
+Как же быть.. 
 
 
 <div class="tg-timestamp">11:52</div>Мы въехали в Армению, паспортный контроль прошёл весьма быстро. 
 
 
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4525.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4525.jpg "Vladimir")
+>Куста из окна тачки вам
+
 <div class="tg-timestamp">12:12</div>Мы доехали. Чуть голова не отвертелась, смотрел во все стороны на местные красоты. Дорога по Армении убита полностью. 
 
 
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4527.jpg "Vladimir")
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4528.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4527.jpg "Vladimir")
+>По дороге много брошенных или недостроенных домов.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4528.jpg "Vladimir")
+>Виды эпичные.
+
 <div class="tg-timestamp">13:57</div>Ща попробую фотки с дороги кинуть, надеюсь упадёт подборкой, если что сороян 
 
 
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4530.jpg "Vladimir")
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4531.jpg "Vladimir")
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4532.jpg "Vladimir")
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4533.jpg "Vladimir")
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4534.jpg "Vladimir")
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4535.jpg "Vladimir")
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4536.jpg "Vladimir")
-![2018-06-10](https://hb.bizmrg.com/urbantrip/media/2018-6/4537.jpg "Vladimir")
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4530.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4531.jpg "Vladimir")
+>Севан это
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4532.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4533.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4534.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4535.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4536.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4537.jpg "Vladimir")
+
 <div class="tg-timestamp">14:11</div>Эт, про Тбилиси, зайдите в ресторанчик Маспинзела, что у серных бань, там мегавкусно и недорого 
 
 
@@ -329,7 +541,12 @@ tags:
 <div class="tg-timestamp">16:18</div>Вспомнилось. Пока ехали в Ереван разговорились с водителем, он спросил откуда мы. Сказали из Ульяновска, его ответ «а, Шурыгина», ну не пиздец ли. 
 
 
-<div class="tg-timestamp">18:21</div>Первые впечатления:\n- соглашусь с Димой месячной давности, город бедноват, ухожен только по центру\n- цены дешевые, но даже к шоту егеря без стола плюсуются автоматом чаевые, добавлять к ценам в меню 10% везде\n- как следствие, официанты сонные мухи, а хули морочиться, если и так заплатят\n- дорожное движение так  же сумасшедше\n- более барный город чем Тбилиси, тот ресторанный 
+<div class="tg-timestamp">18:21</div>Первые впечатления:
+- соглашусь с Димой месячной давности, город бедноват, ухожен только по центру
+- цены дешевые, но даже к шоту егеря без стола плюсуются автоматом чаевые, добавлять к ценам в меню 10% везде
+- как следствие, официанты сонные мухи, а хули морочиться, если и так заплатят
+- дорожное движение так  же сумасшедше
+- более барный город чем Тбилиси, тот ресторанный 
 
 
 <div class="tg-timestamp">13:10</div>А я чего вот молчу, мы на экскурсии и позже всё вам расскажу. Сейчас мы у дяди Рубика и у него отличная персиковая водка и ежевичное вино, а ещё суджук и бастурма, отвал бошки (с) затариваимся 
@@ -338,3 +555,122 @@ tags:
 <div class="tg-timestamp">13:54</div>В итоге взяли по 1,5 ежевичного и гранатового, 3 литра за 750р. 
 
 
+<div class="tg-timestamp">16:2</div>Ощм, Ереван скучный город, несмотря на то, что ему уже почти 3000 лет, до прихода советской власти он был большой деревней, зданий из камня 18-19 веков совсем мало. После прихода советов Ереван стали строить по советской планировке. Центр города это оперный театр от него секторами кольца идут районы города. Есть торговая зона, жилая, студенческая и тд, план до сих пор соблюдается при застройке. По городу очень много питьевых фонтанчиков, вода горная, холодная (есть пара где вода теплая). По легенде они появились после того, как главный архитектор Еревана устал покупать воду и повелел расставить везде эти фонтанчики. Пить можно смело. 
+Есть метро, но он такое, единственный плюс это прохлада, наверху +28, внизу +19. Кстати, про температуру, нам оказывается повезло, обычно в это время +40 тут, а сейчас типа прохладно. 
+Собственно про Ереван и нечего что-то рассказать, ща пару картинок покажу. 
+
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4546.jpg "Vladimir")
+>Фонтанчик, они везде, некоторые отличаются по вкусу.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4547.jpg "Vladimir")
+>Площадь Республики. В центре почти все здания сделаны из тофа, вулканического камня.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4548.jpg "Vladimir")
+>Все арки раскрашены местными студентами из художественной академии, так они сессию сдавали. Городу хорошо и им зачёт.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4549.jpg "Vladimir")
+>В городе есть каскад, сооружение с лестницами в гору и фонтанами, перед ним скульптуры всякие. Например, жирный кот.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4550.jpg "Vladimir")
+>Вид с этого каскада, облака впереди это арарат
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4551.jpg "Vladimir")
+>А вот арарат без облаков
+
+<div class="tg-timestamp">16:9</div>Есть местная примета, если гора с утра в облаках вечером жди дождя 
+
+
+<div class="tg-timestamp">17:12</div>Полкило бастурмы и кило суджука вышло на 1200ре, кстати. Вчера ещё пробовали армянское классическое вино, Токар красное густое и терпкое, на любителя. 
+
+
+<div class="tg-timestamp">18:18</div>Про пожрать. Обязательно зайти в «у Арташа» и поесть шаурмы оттуда, по словам местных лучшая в Армении, мы поели, очень хорошо, состав: курица, баранина, свинья на выбор, картошка фри, лук, перец болгарский, томаты, два соуса, без майонеза, 2 штуки с колой на 2100 драм, это 260р. 
+Обязательно поесть рыбу из Севана – форель, мы пока не, но завтра да. 
+Зайти в бары: Даргет (про него Дима писал), паб Битлз (там упоротые бармены) бехеровка по 120р, Далан ресторанчик+галерея+магазин сувениров 
+
+
+<div class="tg-timestamp">18:43</div>Про кофе. Тут он вторая религия. Брать можно везде без сомнений. 
+
+
+<div class="tg-timestamp">20:2</div>Про слово «Хач», в переводе с армянского это «данный крестом» и связанно с камнекрестами, местными артефактами веры 
+
+
+<video controls src="https://hb.bizmrg.com/urbantrip/media/2018-6/4557.mp4"></video>
+ >Тут гроза, полыхает красиво
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4558.jpg "Vladimir")
+>Форель распробована, вот эта рыбина за 350 ре. Можете зайти в таверну Далан, вкусное место.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4559.jpg "Vladimir")
+>Таких раритов тут много
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4560.jpg "Vladimir")
+>Арараты крутые
+
+<div class="tg-timestamp">7:20</div>Вчера мы тюленили и добрались только до мемориала посвященного геноциду армян, там тихо, полузаброшено, хорошие виды. Сейчас мы готовимся к перелёту в Сочи и осталось последнее. Следующие 5 минут приму 3 адреса с индексами от желающих открытку из Еревана, писать @urbanlich 
+
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4562.jpg "Vladimir")
+>Разданское ущелье вот вам.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4563.jpg "Vladimir")
+>зашли в кафеху Марильда, а тут все стены в записях посетителей
+
+<div class="tg-timestamp">8:33</div>За четыре года запрета курения в заведениях основательно отвык от курения в кафехах и тут на автомате идешь курить на улицу, правда на тебя смотрят, как на идиота. 
+
+
+<div class="tg-timestamp">8:39</div>Ещё про такси напишу. Тут оно оооочень дешевое. Скажем поездка на 15 минут стоит 60 рублей, до аэропорта 170 рублей. Таксисты есесно классические и жизни учат, и знают как жить. 
+
+
+<div class="tg-timestamp">14:51</div>Мы в Сочи и вроде как почуяли всю прелесть чемпионата, забронированную хату перепродали за подороже другим, в панике нашёл другую, в 900 метрах от аэропорта и дешевле, не люблю футбол 
+
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4567.jpg "Vladimir")
+>К понятию бич пакет добавился бич отель, норм
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4568.jpg "Vladimir")
+>Походу я вас буду мучать чудесами нейминга в Сочи
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4569.jpg "Vladimir")
+>Выбрались в горы, летом тут так же красиво. Если соберётесь: лучше Ласточкой, это 300 ре, потом подъемник на Розу 1590р
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4570.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4571.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4572.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4573.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4574.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4575.jpg "Vladimir")
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4576.jpg "Vladimir")
+>Горы это хорошо
+
+<video controls src="https://hb.bizmrg.com/urbantrip/media/2018-6/4577.mp4"></video>
+ >Это спуск к водопадам, они на границе с Абхазией, если захочется пройти ее нужен паспорт.
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4578.jpg "Vladimir")
+>Это малый водопад, ничо особого
+
+![Vladimir](https://hb.bizmrg.com/urbantrip/media/2018-6/4579.jpg "Vladimir")
+>Большой получше будет, вода холодная, что очень хорошо при местных +33
+
+<div class="tg-timestamp">19:27</div>Ощм, я наверно закончу, рассказывать больше не о чем. Как итог, если соберётесь по примерному маршруту, начинайте с Еревана, чтобы наращивать восторги. В Ереване смотайтесь на Севан, на озера в кратерах старых вулканов, купаются с июля. В Грузии надо в Мцхету, Гори, Казбеги, Кахетию и пить только местное вино, заедая его местной же жратвой. 
+Ждём следующего путешественника. 
+
+
+<div class="tg-timestamp">12:9</div>Меня тут попросили дать расклад по баблу, чего куда и сколько в итоге вышло. Стоит заморачиваться? Надо кому? 
+
+
+<div class="tg-timestamp">12:4</div>Я созрел. Чтобы тут не было кучи текста, все в телеграфе http://telegra.ph/Kratko-o-pogode-06-19 
+Если заблокировано пишите, так и быть, сюда скопипащу. 
+
+
+<div class="tg-timestamp">12:53</div>кто там палец отжал, шутник, мне не в лом в тексте цифру поменять, а следующего прокляну гг 
+
+
+<video controls src="https://hb.bizmrg.com/urbantrip/media/2018-6/4585.mp4"></video>
+ 
