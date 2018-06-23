@@ -1,3 +1,12 @@
+---
+title: "Clausы в Финляндии"
+cover: "https://unsplash.it/1280/500/?random?BoldMage"
+author: "Claus"
+date: "2018-05-01"
+category: ""
+tags:
+    - Финляндия
+---
 ![2018-06-04](https://hb.bizmrg.com/urbantrip/media/2018-6/4345.jpg "Claus")
 ![2018-06-04](https://hb.bizmrg.com/urbantrip/media/2018-6/4346.jpg "Claus")
 <div class="tg-timestamp">12:24</div>Порции слоновьи. 
